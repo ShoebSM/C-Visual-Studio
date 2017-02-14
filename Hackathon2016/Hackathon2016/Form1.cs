@@ -13,9 +13,7 @@ using System.Windows.Forms;
 // Uses: Form Application, Exceptions, Random Generator, Graphics, Radio Buttons, Buttons, TextBox, Labels, Hide/Display functionality 
 //    for buttons/labels
 //Shoeb Mohammed
-//Reid Wixom
-//Pratik Patel
-//Harika Bandi
+
 
 namespace Hackathon2016
 {
