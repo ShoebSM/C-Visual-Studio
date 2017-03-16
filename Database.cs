@@ -1,4 +1,10 @@
-﻿using System;
+/*  Shoeb Mohammed - z1700231
+*  Program to make a connection to a mySQL database
+*  Allow user interactivity options (in a Visual Studio form) to create a new database, update the database,
+    and ultimately output queried searches.
+*
+*/
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
