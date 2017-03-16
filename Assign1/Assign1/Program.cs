@@ -1,9 +1,7 @@
 ﻿/*  Assignment 1 - CSCI 473 - Hutchins
  *  Shoeb Mohammed z1700231
- *  Reid Wixon z1693990
- *  Harika Bandi z1782521
- *  Pratik Patel z1751854
- * 
+ *  -Uses txt file to generate table data
+ *  -Offers and accepts user commands to search for or sort the data
  * 
  */
 
